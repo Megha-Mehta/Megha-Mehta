@@ -1,6 +1,6 @@
 1) Firstly i Created a folder in to the plugin folder the name of the folder is Custom-field-plugin for version 1.1
 2) Now after that i just create a Php file i.e. custom-field-registration.php
-3) Now I Create a another folder desktop the name of the folder is same i.e. Custom-field-plugin for version 1.2 and put the same name php file on that folder
+3) Now I Create a another folder in my desktop the name of the folder is same i.e. Custom-field-plugin for version 1.2 and put the same name php file on that folder
 4) Now I edit the php file I simply change the version of the plugin and remove the email field functionality of the plugin as per the requrinment.
 5) Now go to the plugin menu from the side bar click on add new and after upload the plugin folder which i created for version1.2 on my desktop.
 6) Inthe uploading process they show me the POPUP i.e. same plugin already exit do you want me to update the plugin you can simply update the plugin version.  
