@@ -1,0 +1,4 @@
+1) Firstly i Created a folder in to the plugin folder the name of the folder is Custom-field-plugin for version 1.1
+2) Now after that i just create a Php file i.e. custom-field-registration.php
+3) Now I Create a another folder in to the plugin folder the name of the folder is Custom-field-plugin1 for version 1.2 and put the same name php file on that folder
+4) Now I edit the php file I simply change the version of the plugin and remove the email field functionality of the plugin as per the requrinment.
